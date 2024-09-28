@@ -1,0 +1,24 @@
+{
+    "ECOMM": {
+        "amazon": {
+            "base_url": "https://www.amazon.in",
+            "selectors": {
+                "category_container": "#s-refinements",
+                "category_section": ".a-section:first-child",
+                "subcategory_list": ".a-unordered-list",
+                "subcategory_items": ".a-spacing-micro.apb-browse-refinements-indent-2",
+                "see_all_products": "#apb-desktop-browse-search-see-all",
+                "product_container": ".s-main-slot.s-result-list.s-search-result",
+                "product_item": "div:not(.AdHolder)",
+                "product_link": ".rush-component .a-link-normal",
+                "pagination_container": "div[data-cel-widget^='MAIN-PAGINATION']",
+                "next_page": ".s-pagination-item.s-pagination-next"
+            },
+            "ignore_classes": [
+                "AdHolder"
+            ],
+            "max_subcategory_depth": 5,
+            "max_pages_per_category": 10
+        }
+    }
+}

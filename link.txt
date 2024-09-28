@@ -1,0 +1,19 @@
+ electronics_amz = https://www.amazon.in/s?bbn=976419031&rh=n%3A976419031&dc&qid=1727351441&ref=lp_1389401031_ex_n_1
+ beauty_amz = https://www.amazon.in/gp/browse.html?node=1355016031&ref_=nav_em_sbc_bhg_beauty_all_0_2_13_2
+ home&kitchen_amz = https://www.amazon.in/s?bbn=976442031&rh=n%3A976442031&dc=&qid=1727351964&ref=lp_5925789031_ex_n_1&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522
+ sports&fitness_amz = https://www.amazon.in/s?bbn=1984443031&rh=n%3A1984443031&dc=&qid=1727352019&ref=lp_3403628031_ex_n_1&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522
+ car&motorbike_amz = https://www.amazon.in/s?bbn=4772060031&rh=n%3A4772060031&dc&qid=1727352156&ref=lp_5257474031_ex_n_1
+
+category_flk = https://www.flipkart.com/all-categories/pr?filterNone=true&p%5B%5D=sort%3Dprice_asc&sid=search.flipkart.com&page=1
+
+tv&Entertainment_vs = https://www.vijaysales.com/tv-and-entertainment
+kitchen_vs = https://www.vijaysales.com/kitchen-appliances
+home_vs = https://www.vijaysales.com/home-appliances
+mobile&tablets_vs = https://www.vijaysales.com/mobiles-and-tablets
+camera_vs = https://www.vijaysales.com/camera
+personalCare_vs = https://www.vijaysales.com/personal-care
+
+
+
+
+

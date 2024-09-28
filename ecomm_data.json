@@ -1,0 +1,91 @@
+{
+    "ECOMM": {
+        "amazon": {
+            "base_url": "https://www.amazon.in",
+            "categories": {
+                "electronics": {
+                    "url": "/s?bbn=976419031&rh=n%3A976419031&dc&qid=1727351441&ref=lp_1389401031_ex_n_1",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "beauty": {
+                    "url": "/gp/browse.html?node=1355016031&ref_=nav_em_sbc_bhg_beauty_all_0_2_13_2",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "home_and_kitchen": {
+                    "url": "/s?bbn=976442031&rh=n%3A976442031&dc=&qid=1727351964&ref=lp_5925789031_ex_n_1",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "sports_and_fitness": {
+                    "url": "/s?bbn=1984443031&rh=n%3A1984443031&dc=&qid=1727352019&ref=lp_3403628031_ex_n_1",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "car_and_motorbike": {
+                    "url": "/s?bbn=4772060031&rh=n%3A4772060031&dc&qid=1727352156&ref=lp_5257474031_ex_n_1",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                }
+            }
+        },
+        "flipkart": {
+            "base_url": "https://www.flipkart.com",
+            "categories": {
+                "all_categories": {
+                    "url": "/all-categories/pr?filterNone=true&p%5B%5D=sort%3Dprice_asc&sid=search.flipkart.com&page=1",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                }
+            }
+        },
+        "vijay_sales": {
+            "base_url": "https://www.vijaysales.com",
+            "categories": {
+                "tv_and_entertainment": {
+                    "url": "/tv-and-entertainment",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "kitchen_appliances": {
+                    "url": "/kitchen-appliances",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "home_appliances": {
+                    "url": "/home-appliances",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "mobiles_and_tablets": {
+                    "url": "/mobiles-and-tablets",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "camera": {
+                    "url": "/camera",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                },
+                "personal_care": {
+                    "url": "/personal-care",
+                    "sub_categories": {},
+                    "products": [],
+                    "crawled_at": null
+                }
+            }
+        }
+    }
+}
